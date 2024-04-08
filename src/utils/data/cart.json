@@ -1,0 +1,21 @@
+{
+    "total":3100,
+    "items":[
+        {
+            "id": 11,
+            "quantity":2,
+            "title": "Orejas de Vaca Cancat - 2 Unid.t",
+            "description": "Oreja de vaca.",
+            "price": 1550,
+            "discountPercentage": 15,
+            "rating": 4.8,
+            "stock": 55,
+            "brand": "Cancat",
+            "category": "Snack",
+            "thumbnail": "https://i.ibb.co/LhzDGFN/snack3-0-oreja.jpg",
+            "images": [
+              "https://i.ibb.co/LhzDGFN/snack3-0-oreja.jpg"
+            ]
+          }        
+    ]
+}

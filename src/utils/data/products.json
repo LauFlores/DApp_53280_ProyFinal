@@ -1,0 +1,203 @@
+[
+  {
+    "id": 0,
+    "title": "Alimento Nutrique Perro Adulto Raza Grande - 3 kg",
+    "description": "Nutrique se caracteriza por revolucionar el paradigma de la nutrición, gracias a la innovadora combinación de ingredientes seleccionados para asegurar un óptimo funcionamiento digestivo, mantener un sistema osteoarticular sano y lograr mayor vitalidad a lo largo de toda la etapa de adultez. Es un alimento que promueve la vida adulta activa y saludable. Está compuesto de probióticos y prebióticos y el 72% de la proteína es de origen animal.",
+    "price": 23990,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 50,
+    "brand": "Nutrique",
+    "category": "Alimento",
+    "thumbnail": "https://i.ibb.co/QkBV42d/alimento1-0-nutrique.jpg",
+    "images": [
+      "https://i.ibb.co/QkBV42d/alimento1-0-nutrique.jpg",
+      "https://i.ibb.co/42YSR8Q/alimento1-1-nutrique.jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Alimento Whole Earth Farms Pollo y Salmón Perro Adulto - 2 Kg",
+    "description": "El Alimento Whole Earth Farms Adulto Pollo y Salmon, es una combinación de carnes nobles y cereales integrales, le da a tu perro lo natural y lo bueno de la Tierra. Pollo y salmón ricos en proteínas, arándanos deliciosos, hierbas y especias sabrosas son solo algunos de los ingredientes nutritivos que encontrarás en esta receta de Whole Earth Farms.",
+    "price": 19350,
+    "discountPercentage": 12,
+    "rating": 4.8,
+    "stock": 30,
+    "brand": "Whole Earth Farms",
+    "category": "Alimento",
+    "thumbnail": "https://i.ibb.co/5LY4rDH/alimento2-0-whole.jpg",
+    "images": [
+      "https://i.ibb.co/5LY4rDH/alimento2-0-whole.jpg",
+      "https://i.ibb.co/Yh36fyV/alimento2-1-whole.jpg",
+      "https://i.ibb.co/P5nkg2C/alimento2-2-whole.jpg",
+      "https://i.ibb.co/nwTMLyS/alimento2-3-whole.jpg",
+      "https://i.ibb.co/23B6DMG/alimento2-4-whole.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Alimento Fawna Perro Adulto Raza Mediana y Grande - 3kg",
+    "description": "El Alimento Fawna para Perro Adulto Raza Mediana y Grande, es una gran opción para una nutrición completa y saludable. El nivel y la calidad de origen de sus ingredientes aportan aminoácidos y ácidos grasos esenciales (DHA), para el óptimo desarrollo del sistema cognitivo y la estructura corporal, además está hecho con salmón del pacífico, zapallo y frutos rojos, lo que le da un sabor inigualable. Sus prebióticos y probióticos naturales ayudan a incrementar la flora intestinal benéfica, favoreciendo las defensas naturales y el sistema inmunológico intestinal.",
+    "price": 17190,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 60,
+    "brand": "Fawna",
+    "category": "Alimento",
+    "thumbnail": "https://i.ibb.co/dcKWkX8/alimento3-0-Fawna.jpg",
+    "images": [
+      "https://i.ibb.co/dcKWkX8/alimento3-0-Fawna.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Alimento VitalCan Balanced Natural Recipe Cerdo - 3 Kg",
+    "description": "El Alimento VitalCan Balanced Natural Recipe Cerdo es una opción única y natural diseñada para brindar una nutrición completa balanceada. Esta receta está elaborada con proteínas únicas cuidadosamente seleccionadas para satisfacer las necesidades de todos los perros adultos, cuenta con proteínas alternativas y antioxidantes naturales, que conservan la frescura del alimento y brinda protección como antioxidante celular, a diferencia de los sintéticos que solo preservan el alimento hasta su vida útil, no contiene soja ni trigo.",
+    "price": 14350,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 40,
+    "brand": "Balanced",
+    "category": "Alimento",
+    "thumbnail": "https://i.ibb.co/SJyvCNg/alimento4-0-Vital-Can.jpg",
+    "images": [
+      "https://i.ibb.co/SJyvCNg/alimento4-0-Vital-Can.jpg",
+      "https://i.ibb.co/st8BjQk/alimento4-1-Vital-Can.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bolsas Eco Cancat - 50 Unidades",
+    "description": "Bolsas",
+    "price": 3050,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 25,
+    "brand": "Cancat",
+    "category": "Accesorios",
+    "thumbnail": "https://i.ibb.co/zrybQp2/accesorio1-0-bolsa.jpg",
+    "images": [
+      "https://i.ibb.co/zrybQp2/accesorio1-0-bolsa.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Soga Cancat Con Nudos - M",
+    "description": "Esta Soga con doble nudo de Cancat pertenece a línea de sogas FUN, diseñada especialmente para que tu mascota libere su stress mientras juegan en el clásico “tira y afloje”. Ideal para interactuar con nuestra mascota. También se usan para que el perro los pueda morder y realizar actividades de entrenamiento con él. Este tipo de juguetes son perfectos para evitar que las mascotas mordisqueen articulos del hogar.",
+    "price": 3650,
+    "discountPercentage": 8,
+    "rating": 4.6,
+    "stock": 35,
+    "brand": "Cancat",
+    "category": "Accesorios",
+    "thumbnail": "https://i.ibb.co/9GdtBvR/accesorio2-0-soga.jpg",
+    "images": [
+      "https://i.ibb.co/9GdtBvR/accesorio2-0-soga.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Comedero Y Bebedero Party Rojo - 0,5 Lts",
+    "description": "Recipiente para usar apto como comedero o bebedero. Tamaño mediano.",
+    "price": 4100,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "Ferplast",
+    "category": "Accesorios",
+    "thumbnail": "https://i.ibb.co/W2s1ChM/accesorio3-0-comedero.jpg",
+    "images": [
+      "https://i.ibb.co/W2s1ChM/accesorio3-0-comedero.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Correa Zeus Traffic Handle Verde 1,2 Metros - S",
+    "description": "La Correa Zeus es una excelente opción para los paseos de tu perro, incluye un lazo de control de tráfico incorporado perfecto para aquellas situaciones en las que se necesita un control adicional, así como una conveniente hebilla a presión de dos tonos de liberación rápida en el mango, que le permite asegurar fácilmente la correa.",
+    "price": 5121 ,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 20,
+    "brand": "Zeus",
+    "category": "Accesorios",
+    "thumbnail": "https://i.ibb.co/j436Ry6/accesorio4-0-correa.jpg",
+    "images": [
+      "https://i.ibb.co/j436Ry6/accesorio4-0-correa.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Collar Ferplast Club C Negro - 18-25cm x 10mm",
+    "description": "El Collar Ferplast Club C, está confeccionado en nylon super resistente y suave al tacto. Cuentan con un sólido cierre de plástico y son fáciles de ajustar gracias a su hebilla especial de plástico.",
+    "price": 4000,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "Ferplast",
+    "category": "Accesorios",
+    "thumbnail": "https://i.ibb.co/9tYxRt0/accesorio5-0-collar.jpg",
+    "images": [
+      "https://i.ibb.co/9tYxRt0/accesorio5-0-collar.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Palitos Mon Ami Pollo - 100 Gr",
+    "description": "Los Mon Ami Sticks son una nueva familia de Snacks Saludables elaborados con carne fresca, ingredientes superfood y una receta rica en colágeno. Los Meat Sticks reúnen lo mejor de Mon Ami en una fórmula que contiene zanahoria, brócoli, carne fresca y colágeno, nutriente ideal para fortalecer los tejidos y músculos de los perros, son muy fáciles de digerir y 100% libres de conservantes artificiales.",
+    "price": 2450,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "Mom Ami",
+    "category": "Snack",
+    "thumbnail": "https://i.ibb.co/MNkRxxy/snack1-0-palitos.jpg",
+    "images": [
+      "https://i.ibb.co/MNkRxxy/snack1-0-palitos.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Biscuits De Pollo Horneado Golocan Para Perro - 120Gr",
+    "description": "Los Biscuits horneados de Golocan son un excelente snack para brindarle a tu perro, ya sea como premio o por la circunstancia que desees.",
+    "price": 1650,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "Golocan",
+    "category": "Snack",
+    "thumbnail": "https://i.ibb.co/5jCPBrQ/snack2-0-biscuits.jpg",
+    "images": [
+      "https://i.ibb.co/5jCPBrQ/snack2-0-biscuits.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Orejas de Vaca Cancat - 2 Unid.",
+    "description": "Oreja de vaca.",
+    "price": 1550,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "Cancat",
+    "category": "Snack",
+    "thumbnail": "https://i.ibb.co/LhzDGFN/snack3-0-oreja.jpg",
+    "images": [
+      "https://i.ibb.co/LhzDGFN/snack3-0-oreja.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Hueso Corbata Perro CanCat - 7/8",
+    "description": "Los huesos de CanCAT son juguetes que fortalecen los dientes de tu mascota, elaborados con material de la mejor calidad, ayuda a ejercitar la mandíbula, también disminuyen el sarro, limpiando y dando brillo a los dientes, fortalecen las encías, gracias a este juguete se puede prevenir el mal aliento y liberarse del estrés. Extra-Grande: 22cm (largo) Grande: 19cm (largo) Mediano: 16cm (largo) Chico: 13cm (largo) Mini: 10cm (largo).",
+    "price": 3790,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "Cancat",
+    "category": "Snack",
+    "thumbnail": "https://i.ibb.co/8B1wtKY/snack4-0-hueso.jpg",
+    "images": [
+      "https://i.ibb.co/8B1wtKY/snack4-0-hueso.jpg"
+    ]
+  }
+]
