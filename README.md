@@ -1,3 +1,6 @@
+🤖 Android app:
+https://expo.dev/artifacts/eas/w9u7Yr5PF7MefxE2RQM6fX.apk
+
 # Petshop E-Commerce App - React Native
 
 Una aplicación de comercio electrónico desarrollada con React Native que ofrece una experiencia de compra completa y fácil de usar para quienes desean adquirir productos para sus mascotas (Alimento, Accesorios, Snack).

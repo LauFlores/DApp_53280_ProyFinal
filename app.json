@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "proyecto final",
-    "slug": "proyecto final",
+    "slug": "dapp53280proyfinal",
     "version": "1.0.0",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,15 +21,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "proyecto final LF"
+      "package": "com.flores_lau1.dapp53280proyfinal"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "ec66e985-fd64-4b1b-93f9-4ddf6157fb9b"
+        "projectId": "2926f3eb-af33-4e34-91c1-49e5e5f45a96"
       }
-    }
+    },
+    "owner": "flores_lau1"
   }
 }
